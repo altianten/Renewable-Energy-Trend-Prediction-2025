@@ -8,8 +8,6 @@ Original file is located at
 """
 
 # Commented out IPython magic to ensure Python compatibility.
-# Install required libraries
-pip install pandas numpy matplotlib seaborn scikit-learn tensorflow xgboost shap -q
 
 # Import libraries
 import pandas as pd
